@@ -1,0 +1,85 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background: #7A14E1;
+	font-size: 1em;
+}
+
+#container{
+	background: white;
+	margin: auto;
+	margin-top: 130px;
+	text-align: center;
+	width: 400px;
+	height: 400px;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+h1{
+	font-size: 2.5em;
+	padding: 10px;
+}
+
+.jatem{
+	padding: 0px;
+	margin: 0px;
+}
+
+.nome{
+	padding: 10px 8px;
+	margin: 22px 3px;
+	width: 167px;
+	border: none;
+	border-radius: 5px 0px 0px 5px;
+	background-color: #D9D9D9;
+}
+
+.sobre{
+	padding: 10px 8px;
+	margin: 22px 3px;
+	width: 174px;
+	border: none;
+	border-radius: 0px 5px 5px 0px;
+	background-color: #D9D9D9;
+}	
+
+.email{
+	padding: 10px 8px;
+	width: 365px;
+	border: none;
+	border-radius: 5px;
+	background-color: #D9D9D9;
+}
+
+.senha{
+	padding: 10px 8px;
+	margin-top: 20px;
+	width: 365px;
+	border: none;
+	border-radius: 5px;
+	background-color: #D9D9D9;
+}
+
+.criar{
+	padding: 10px 8px;
+	margin: 22px 0px;
+	width: 385px;
+	text-align: center;
+	border: none;
+	border-radius: 5px;
+	background-color: #7F35A4;
+	color: white;
+}
+
+.link{
+	text-decoration: none;
+	color: blue;
+}
+
+input[type="submit"]{
+	cursor: pointer;
+}
